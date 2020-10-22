@@ -5,6 +5,7 @@ Toggling side bar developed using HTML, CSS, Type script and Angular. Basically 
 * HTML
 * CSS
 * Type Script
+* Java Script
 
 ### Project Run
 * ng serve/ npm start
